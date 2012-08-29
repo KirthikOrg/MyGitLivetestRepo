@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace JabbR.Models
 {
-    //public class ChatClient
+    public class ChatClient
     {
         [Key]
         public int Key { get; set; }
