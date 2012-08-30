@@ -844,7 +844,7 @@
         // Initialize the ui, passing the user preferences
         ui.initialize(state.preferences);
 
-        ui.addMessage('Change 17 ' + originalTitle, 'notification');
+        ui.addMessage('Change 18 ' + originalTitle, 'notification');
         ui.addMessage('Type /help to see the list of commands', 'notification');
 
         connection.hub.start(function () {
